@@ -35,6 +35,30 @@
 
 ---
 
+<!-- ====== GLOSSY HIGHLIGHT STRIP ====== -->
+<h1 align="center">🏆 What I Bring To The Table</h1>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI--Powered_Apps-2dd4bf?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Production_Web_Apps-e6c15a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Secure_Auth_%26_Payments-635BFF?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Agentic_Automation-25D366?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117"/>
+
+</div>
+
+<!-- ====== SNIPPET CARDS — 3D vibe ====== -->
+<div align="left">
+
+- ✨ **Build** intuitive, scalable full-stack platforms from idea → production.
+- 🧠 **Integrate** LLMs & Agentic AI into real business workflows.
+- 💳 **Monetize** with Stripe payments, subscriptions & secure auth.
+- 📈 **Optimize** growth with data-driven e-commerce & PPC strategy.
+
+</div>
+
+---
+
 <!-- ====== GLOSSY 3D TECH STACK ====== -->
 <h1 align="center">💎 Technologies & Stack</h1>
 
@@ -128,14 +152,24 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=%230d1117)](https://www.linkedin.com/in/muhammad-tayyab-508454341)
-[![Gmail](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=%230d1117)](mailto:md.tayablidoagr123@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=%23EA4335&labelColor=%230d1117)](mailto:md.tayyabalidogar123@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=%2325D366&labelColor=%230d1117)](https://wa.me/923288511583)
 
 </div>
+
+<br/>
+
+[!["— ✦ —"](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=25D366&center=true&vCenter=true&width=500&lines=✦+✦+✦+✦+✦+✦+✦+✦+✦)]()
+
+<p align="center">
+  <!-- VISITOR COUNT — keeps things lively -->
+  <img src="https://komarev.com/ghpvc/?username=TayyabAliDogar&style=for-the-badge&color=d4af37&label=PROFILE+VIEWS" />
+</p>
 
 <br/>
 
 <p align="center">
   <sub><b>✨ Crafted with passion · Full-Stack · AI · Automation ✨</b></sub>
   <br/>
-  <sub>Glossy & 3D vibes for a modern profile — Tayyab Ali</sub>
+  <sub>⚡ Open to opportunities & collaborations — let's build something great together ⚡</sub>
 </p>
