@@ -1,24 +1,33 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,6&height=180&section=header&text=✦%20Tayyab%20Ali%20✦&fontSize=42&fontColor=e6c15a&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Agentic%20AI%20%7C%20E-commerce%20Automation&descSize=16&descAlignY=60&descColor=2dd4bf" width="100%">
-</p>
-
-<!-- ====== GLOSSY 3D IDENTITY CARD ====== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=500&color=e6c15a&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Tayyab+Ali;Full-Stack+Developer;Agentic+AI+%26+Automation+Engineer;Turning+Ideas+Into+%F0%9F%94%A5+Products" />
+  <!-- ==== PREMIUM HERO // STATIC, DARK, MINIMAL ==== -->
 
-<br/>
+  <!-- Clean rectangular name banner — gold on dark-gradient, no animation -->
+  <picture>
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=110&section=header&color=gradient&customColorList=20,24,6,0&text=%E2%9C%A6%20Tayyab%20Ali%20Dogar%20%E2%9C%A6&fontSize=40&fontColor=e6c15a" alt="Tayyab Ali Dogar"/>
+  </picture>
 
-<!-- CORE BADGES — glossy gradient chips -->
-<a href="https://github.com/TayyabAliDogar"><img src="https://img.shields.io/badge/Full--Stack_WEB-%E2%9C%94-1a1f2e?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%230d1117"/></a>
-<a href="https://github.com/TayyabAliDogar"><img src="https://img.shields.io/badge/AGENTIC_AI-%F0%9F%A7%A0-2dd4bf?style=for-the-badge&logo=openai&logoColor=white&labelColor=%230d1117"/></a>
-<a href="https://github.com/TayyabAliDogar"><img src="https://img.shields.io/badge/E--COMMERCE_%26_AUTOMATION-%E2%9A%A1-d4af37?style=for-the-badge&logo=shopify&logoColor=white&labelColor=%230d1117"/></a>
+  <h3 align="center">Agentic AI Specialist &amp; Full-Stack Engineer</h3>
+
+  <br/>
+
+  <!-- Role badges — static, restrained, consistent palette -->
+  <a href="https://github.com/TayyabAliDogar">
+    <img src="https://img.shields.io/badge/Full--Stack_Engineer-0d1117?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%230d1117"/>
+  </a>
+  <a href="https://github.com/TayyabAliDogar">
+    <img src="https://img.shields.io/badge/Agentic_AI_Specialist-0d1117?style=for-the-badge&logo=openai&logoColor=%232dd4bf&labelColor=%230d1117"/>
+  </a>
+  <a href="https://github.com/TayyabAliDogar">
+    <img src="https://img.shields.io/badge/E--commerce_%26_Automation-0d1117?style=for-the-badge&logo=shopify&logoColor=%23d4af37&labelColor=%230d1117"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Subtle gold hairline divider (static) -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&color=gradient&customColorList=20,24,6&text=&fontSize=0" width="100%" alt=""/>
 
 </div>
-
-<br/>
-
-[!["— ✦ —"](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&color=2dd4bf&center=true&vCenter=true&width=500&lines=✦+✦+✦+✦+✦+✦+✦+✦+✦)]()
 
 ---
 
