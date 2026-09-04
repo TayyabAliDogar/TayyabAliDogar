@@ -4,7 +4,7 @@
 
   <!-- Animated typing banner — name first, then cycling roles (no blue waves) -->
   <picture>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2600&pause=700&color=e6c15a&center=true&vCenter=true&width=860&lines=%E2%9C%A6+Tayyab+Ali+Dogar+%E2%9C%A6;I+am+an+AI+Agentic+Developer+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9A%A1;Building+Intelligent+Automation+%F0%9F%9A%80;E-commerce+%26+Payment+Focused+%F0%9F%92%B3" alt="Tayyab Ali Dogar"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2600&pause=700&color=e6c15a&center=true&vCenter=true&width=1000&lines=Hi%2C+I+am+%E2%9C%A6+Tayyab+Ali+Dogar+%E2%9C%A6+%F0%9F%91%8B;I+am+an+AI+Agentic+Developer+%F0%9F%A4%96;Full-Stack+Engineer+%E2%9A%A1;Building+Intelligent+Automation+%F0%9F%9A%80;E-commerce+%26+Payment+Focused+%F0%9F%92%B3" alt="Tayyab Ali Dogar"/>
   </picture>
 
   <h3 align="center">Agentic AI Specialist &amp; Full-Stack Engineer</h3>
